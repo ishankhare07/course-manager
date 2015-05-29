@@ -28,13 +28,13 @@ html {
 }
 
 .checked {
-    -webkit-transition : all 0.5s ease-out;
+    -webkit-transition : all 1s ease-out;
     text-decoration: line-through;
     background-color : green;
 }
 
 .unchecked {
-    -webkit-transition : all 0.5s ease-out;
+    -webkit-transition : all 1s ease-out;
     text-decoration: none;
     background-color : #0066CA;
 }
